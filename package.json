@@ -20,14 +20,15 @@
         "korvo",
         "theme",
         "dark",
-        "hacker"
+        "hacker",
+        "purple"
     ],
     "contributes": {
         "themes": [
             {
                 "label": "Korvo Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Korvo Theme-color-theme.json"
+                "path": "./themes/korvo-theme.json"
             }
         ]
     },
