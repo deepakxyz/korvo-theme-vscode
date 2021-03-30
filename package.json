@@ -2,7 +2,7 @@
     "name": "korvo-theme-vscode",
     "displayName": "Korvo Theme",
     "description": "A dark hacky theme for Visual Studio Code",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "DeepakRajan",
     "license": "MIT",
     "icon": "source/korvo-logo.png",
