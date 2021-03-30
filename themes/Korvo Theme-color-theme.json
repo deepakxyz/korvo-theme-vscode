@@ -151,7 +151,7 @@
 			"name": "Constants",
 			"scope": "constant",
 			"settings": {
-				"foreground": "#bba474"
+				"foreground": "#cfbe9a"
 			}
 		},
 		{
@@ -204,7 +204,7 @@
 			"name": "Tag attributes",
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"foreground": "#bba474",
+				"foreground": "#cfbe9a",
 				"fontStyle": "italic"
 			}
 		},
@@ -273,7 +273,7 @@
 			"name": "Units",
 			"scope": "keyword.other.unit",
 			"settings": {
-				"foreground": "#bba474"
+				"foreground": "#cfbe9a"
 			}
 		},
 		{
@@ -317,7 +317,7 @@
 				"markup.fenced_code.block"
 			],
 			"settings": {
-				"foreground": "#bba474"
+				"foreground": "#cfbe9a"
 			}
 		},
 		{
@@ -349,14 +349,14 @@
 			"name": "Regex",
 			"scope": "string.regexp",
 			"settings": {
-				"foreground": "#bba474"
+				"foreground": "#cfbe9a"
 			}
 		},
 		{
 			"name": "Markup link descriptions",
 			"scope": "string.other.link",
 			"settings": {
-				"foreground": "#bba474"
+				"foreground": "#cfbe9a"
 			}
 		},
 		{
@@ -454,7 +454,7 @@
 			"name": "Markup list punctuation",
 			"scope": "punctuation.definition.list",
 			"settings": {
-				"foreground": "#bba474"
+				"foreground": "#cfbe9a"
 			}
 		}
 	]
