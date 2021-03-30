@@ -1,13 +1,26 @@
-# README
-## This is the README for your extension "korvo-theme-vscode"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+# Korvo Theme for VS Code
+This extension for Visual Stuido Code adds themes titled "Korvo"
+## Main Pallet
+![Pallet](source/pallet.png)
+## Korvo Dark Theme
+![Korva](source/Korvo-theme.png)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+# Installation
 
-**Enjoy!**
+1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
+2. Search for `Korvo Theme`.
+3. Click **Install** to install it.
+4. Code > Preferences > Color Theme > **Korvo Theme**
+5. Optional: Use the recommended settings below for best experience
+6. Enjoy!
+
+## Recommended Settings
+```js 
+{
+    // Set themme
+    "workbench.colorTheme": "Korvo",
+    "editor.fontFamily": "Operator Mono, Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontSize": 13,
+}
+```
