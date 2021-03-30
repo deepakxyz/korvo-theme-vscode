@@ -4,7 +4,7 @@ This extension for Visual Stuido Code adds themes titled "Korvo"
 ## Main Pallet
 ![Pallet](source/pallet.png)
 ## Korvo Dark Theme
-![Korva](source/Korvo-theme.png)
+![Korva](source/Korvo-theme_1.png)
 
 # Installation
 
@@ -24,3 +24,6 @@ This extension for Visual Stuido Code adds themes titled "Korvo"
     "editor.fontSize": 13,
 }
 ```
+
+## License
+[MIT](LICENSE)
