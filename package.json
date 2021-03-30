@@ -3,7 +3,7 @@
     "displayName": "Korvo Theme",
     "description": "A dark hacky theme for Visual Studio Code",
     "version": "0.0.1",
-    "publisher": "Deepak Rajan",
+    "publisher": "DeepakRajan",
     "license": "MIT",
     "icon": "source/korvo-logo.png",
     "engines": {
