@@ -5,6 +5,8 @@ This extension for Visual Stuido Code adds themes titled "Korvo"
 ![Pallet](source/pallet.png)
 ## Korvo Dark Theme
 ![Korva](source/korvo-theme_1.png)
+## Korva Grey Theme
+![Korva-Grey](source/korvo-grey-theme.png)
 
 # Installation
 

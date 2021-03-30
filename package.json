@@ -29,6 +29,11 @@
                 "label": "Korvo Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/korvo-theme.json"
+            },
+            {
+                "label": "Korvo Grey Theme",
+                "uiTheme":"vs-dark",
+                "path": "./themes/korvo-grey-theme.json"
             }
         ]
     },
